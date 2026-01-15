@@ -13,19 +13,28 @@ Passionate about Cloud, Docker, and real-world DevOps projects 🚀
 
 ---
 
-## 🧰 Skills & Projects Overview
+## 🧰 Skills & Tools (Learning & Hands-on)
 
-| Domain | Skills / Tools | Projects |
-|------|---------------|----------|
-| **Cloud** | AWS EC2, Security Groups | Dockerized apps deployed on EC2 |
-| **Containers** | Docker, Dockerfile, Docker Networking | Dockerized Node.js App <br> Dockerized Python Flask App |
-| **Web Server** | Nginx (Reverse Proxy) | Nginx proxy → app container routing |
-| **Backend** | Python (Flask), Node.js | Flask app & Node.js app |
-| **OS** | Linux (Amazon Linux) | Server setup & deployments |
-| **SCM** | Git, GitHub | Version control for all projects |
-| **Networking** | Ports, proxy_pass, container networking | Container-to-container communication |
-| **CI/CD** | — | *(Planned – learning stage)* |
-| **IaC** | — | *(Terraform – upcoming)* |
+### ☁️ Cloud (Basic Knowledge)
+- AWS EC2  
+- Security Groups  
+- Basic Networking concepts  
+
+### 🐳 DevOps & Containers
+- Docker (images, containers, Dockerfile)
+- Docker networking (ports, container communication)
+- Nginx as reverse proxy
+
+### ⚙️ CI/CD & Automation (Basic Understanding)
+- Git & GitHub
+- Jenkins (basic pipelines – learning stage)
+- Ansible (basic concepts)
+- Terraform (basic IaC concepts)
+
+### 🐧 Operating System
+- Linux (Amazon Linux)
+- Basic shell commands
+
 
 ---
 
