@@ -62,7 +62,7 @@ https://github.com/nerkarpooja/python-flask-docker-nginx-devops
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your LinkedIn link here)*
+- 💼 LinkedIn: *www.linkedin.com/in/pooja-nerkar*
 - 💻 GitHub: https://github.com/nerkarpooja
 
 ---
